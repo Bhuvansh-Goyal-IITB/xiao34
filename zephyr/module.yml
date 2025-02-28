@@ -1,3 +1,5 @@
+name: zmk-keyboard-xiao34
+
 build:
   settings:
     board_root: .
